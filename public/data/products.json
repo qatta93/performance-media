@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Zegarek",
+    "description": "lorem ipsum dolor sit amet consectetur",
+    "price": 200,
+    "rating": 4,
+    "ratingNumber": 114,
+    "image": "/images/watch.png"
+  }
+]
